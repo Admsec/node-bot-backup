@@ -1,0 +1,46 @@
+{
+  "account": 1711798892,
+  "login_mode": "qrcode",
+  "device_mode": "sms",
+  "message_mode": "short",
+  "password": "",
+  "log_level": "info",
+  "admins": [
+    1447007223
+  ],
+  "plugins": [
+    "hello",
+    "msgrecall",
+    "每日点赞"
+  ],
+  "notice": {
+    "enable": true,
+    "friend": {
+      "request": {
+        "enable": true,
+        "action": "ignore"
+      },
+      "increase": true,
+      "decrease": true,
+      "message": false
+    },
+    "group": {
+      "request": {
+        "enable": true,
+        "action": "ignore"
+      },
+      "increase": true,
+      "decrease": true,
+      "ban": true,
+      "admin": true,
+      "transfer": true
+    }
+  },
+  "oicq_config": {
+    "log_level": "info",
+    "platform": 5,
+    "data_dir": "D:\\Desktop\\test\\kiwibot\\data\\oicq",
+    "ffmpeg_path": "ffmpeg",
+    "ffprobe_path": "ffprobe"
+  }
+}

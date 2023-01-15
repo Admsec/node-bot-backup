@@ -1,0 +1,1 @@
+require('@kivibot/core').start()

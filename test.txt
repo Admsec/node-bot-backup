@@ -1,0 +1,15 @@
+撤回
+{
+  post_type: 'notice',
+  notice_type: 'group',
+  group_id: 632196612,
+  group: Group { sendMsg: [AsyncFunction (anonymous)] },
+  sub_type: 'recall',
+  user_id: 1447007223,
+  operator_id: 1447007223,
+  message_id: 'Ja6OBFY/k/cAABZhLOdo0mPCQOwB',
+  seq: 5729,
+  rand: 753363154,
+  time: 1673674988,
+  self_id: 1711798892
+}

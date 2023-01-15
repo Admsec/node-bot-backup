@@ -1,0 +1,11 @@
+{
+  "name": "kivibot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Viki <hi@viki.moe> (https://github.com/vikiboss)",
+  "dependencies": {
+    "@kivibot/core": "^0.8.2",
+    "kivibot-plugin-msgrecall": "^1.1.4",
+    "typescript": "^4.9.4"
+  }
+}
